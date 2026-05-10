@@ -33,6 +33,8 @@ export default function Me() {
 
             <a
               href="https://github.com/ikhsanalfaridzi"
+              target="_blank"
+              rel="noopener noreferrer"
               className="border border-gray-700 px-5 py-2 rounded-lg hover:bg-gray-800 transition"
             >
               Github
@@ -42,9 +44,9 @@ export default function Me() {
 
         <div className="flex justify-center">
           <img
-          src="/src/assets/foto.jpg"
+            src={fotoImg} 
             alt="profile"
-            className="w-72 h-72 object-cover rounded-3xl border border-gray-800"
+            className="w-72 h-72 object-cover rounded-3xl border border-gray-800 shadow-xl"
           />
         </div>
       </div>
