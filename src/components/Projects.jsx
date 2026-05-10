@@ -3,14 +3,14 @@ const projects = [
     title: 'Instagram-Clone',
     desc: 'Aplikasi kloning Instagram yang dibuat dengan laravel dan menggunakan database SQL',
     image:
-      '/public/instagram-clone.png',
+      '/instagram-clone.png',
     github: 'https://github.com/ikhsanalfaridzi/Instagram-clone.git',
   },
   {
     title: 'Project Covid 19',
     desc: 'Project tentang artikel Covid 19 yang dibuat dengan React.js dan menggunakan API dari ',
     image:
-      '/public/Covid-19.png',
+      '/Covid-19.png',
     github: 'https://github.com/ikhsanalfaridzi/Project-Covid-19.git',
   },
 ]
