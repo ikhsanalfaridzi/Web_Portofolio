@@ -40,7 +40,7 @@ export default function Me() {
 
         <div className="flex justify-center">
           <img
-            src="/src/assets/foto.jpg"
+          src="/public/foto.jpg"
             alt="profile"
             className="w-72 h-72 object-cover rounded-3xl border border-gray-800"
           />
