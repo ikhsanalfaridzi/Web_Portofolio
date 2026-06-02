@@ -24,6 +24,12 @@ export default function Navbar() {
           </li>
 
           <li>
+            <a href="#certificates" className="hover:text-white transition">
+              Certificates
+            </a>
+          </li>
+
+          <li>
             <a href="#contact" className="hover:text-white transition">
               Contact
             </a>
